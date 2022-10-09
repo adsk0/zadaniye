@@ -1,0 +1,15 @@
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/safe_meth.csproj.AssemblyReference.cache
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/safe_meth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/safe_meth.AssemblyInfoInputs.cache
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/safe_meth.AssemblyInfo.cs
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/safe_meth.csproj.CoreCompileInputs.cache
+/Users/sergejkurua/Projects/safe_meth/safe_meth/bin/Debug/net6.0/safe_meth
+/Users/sergejkurua/Projects/safe_meth/safe_meth/bin/Debug/net6.0/safe_meth.deps.json
+/Users/sergejkurua/Projects/safe_meth/safe_meth/bin/Debug/net6.0/safe_meth.runtimeconfig.json
+/Users/sergejkurua/Projects/safe_meth/safe_meth/bin/Debug/net6.0/safe_meth.dll
+/Users/sergejkurua/Projects/safe_meth/safe_meth/bin/Debug/net6.0/safe_meth.pdb
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/safe_meth.dll
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/refint/safe_meth.dll
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/safe_meth.pdb
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/safe_meth.genruntimeconfig.cache
+/Users/sergejkurua/Projects/safe_meth/safe_meth/obj/Debug/net6.0/ref/safe_meth.dll
